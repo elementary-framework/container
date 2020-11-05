@@ -1,5 +1,5 @@
 {
-    "name": "elementary/container",
+    "name": "elementary-framework/container",
     "description": "A dependency injection container for Elementary Framework",
     "type": "library",
     "license": "MIT",
